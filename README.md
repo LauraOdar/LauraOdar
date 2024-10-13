@@ -24,7 +24,7 @@
 	<p align="center"> Communication </p> 
  	<p align="center"> Teamwork </p> 
 	<p align="center"> Attention to detail</p> 
-	<p align="center"> Attention to detail </p> 
+	
 <br>
 <br>	
 <!--txt habilidades tecnologicas-->
