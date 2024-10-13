@@ -16,10 +16,10 @@
 
 <!--habilidades blandas-->
 <h1 align="left">🧠 Habilidades blandas</h1>
-	<p>Comunicación </p> 
- 	<p>Trabajo en equipo </p> 
-	<p>Atención al detalle </p> 
-	<p>Resolución de problemas </p> 
+	<p align="center"> Comunicación </p> 
+ 	<p align="center">Trabajo en equipo </p> 
+	<p align="center">Atención al detalle </p> 
+	<p align="center">Resolución de problemas </p> 
 	
 <!--txt habilidades tecnologicas-->
 <h1 align="left">💻Habilidades tecnologicas</h1>
