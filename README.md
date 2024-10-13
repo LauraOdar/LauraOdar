@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<!--image-->
 <p align = "center">
 	<img src = "https://komarev.com/ghpvc/?username=10kartik&style=plastic&color=blueviolet" alt = "Profile Views"/>
 </p>
@@ -25,6 +25,4 @@
 		  <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 		  <a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
  </div>  
-      
-
 </p>
