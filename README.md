@@ -5,6 +5,9 @@
 
 <!--gif de la mano saludando-->
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> Hola soy Laura
+<p align = "center"> Full Stack Web Developer / Ruby on Rails / Quality Assurance </p>
+<br>
+<br>
 <!--imagen de los commits-->
 <p align = "center">
 	<img src = "https://komarev.com/ghpvc/?username=10kartik&style=plastic&color=blueviolet" alt = "Profile Views"/>
@@ -13,14 +16,17 @@
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
-
+<br>
+<br>
 <!--habilidades blandas-->
 <h1 align="left">🧠 Habilidades blandas</h1>
+<br>
 	<p align="center"> Comunicación </p> 
  	<p align="center">Trabajo en equipo </p> 
 	<p align="center">Atención al detalle </p> 
 	<p align="center">Resolución de problemas </p> 
-	
+<br>
+<br>	
 <!--txt habilidades tecnologicas-->
 <h1 align="left">💻Habilidades tecnologicas</h1>
 <!--imagenes habilidades tecnologicas-->
@@ -29,6 +35,8 @@
     		<img src="https://skillicons.dev/icons?i=git,css,html,github,ruby,heroku,discord,postgres,figma,github,html,js,mysql,nextjs,postman,react,vscode=14" />
   	</a>
 </p>
+<br>
+<br>
 <!--imagenes de las redes sociales-->
 <!--txt habilidades tecnologicas-->
 <h1 align="left">💻Redes sociales</h1>
