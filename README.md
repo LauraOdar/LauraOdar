@@ -1,4 +1,4 @@
-
+## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
 <!--imagen de los commits-->
 <p align = "center">
 	<img src = "https://komarev.com/ghpvc/?username=10kartik&style=plastic&color=blueviolet" alt = "Profile Views"/>
@@ -8,9 +8,10 @@
 </p>
 
 <div align="center">
-
-
+<!--habilidades blandas-->
+<h1 align="left">🧠 Habilidades blandas</h1>
 <!--habilidades tecnologicas-->
+<h1 align="left"> Habilidades tecnologicas</h1>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,css,html,github,ruby,heroku,discord,postgres,figma,github,html,js,mysql,nextjs,postman,react,vscode=14" />
