@@ -4,7 +4,7 @@
 <br>
 
 <!--gif de la mano saludando-->
-## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> Hola soy Laura
+## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> Hi, I am Laura
 <p align = "center"> Full Stack Web Developer / Ruby on Rails / Quality Assurance </p>
 <br>
 <br>
@@ -19,16 +19,16 @@
 <br>
 <br>
 <!--habilidades blandas-->
-<h1 align="left">🧠 Habilidades blandas</h1>
+<h1 align="left">🧠 Soft skills</h1>
 <br>
-	<p align="center"> Comunicación </p> 
- 	<p align="center">Trabajo en equipo </p> 
-	<p align="center">Atención al detalle </p> 
-	<p align="center">Resolución de problemas </p> 
+	<p align="center"> Communication </p> 
+ 	<p align="center"> Teamwork </p> 
+	<p align="center"> Attention to detail</p> 
+	<p align="center"> Attention to detail </p> 
 <br>
 <br>	
 <!--txt habilidades tecnologicas-->
-<h1 align="left">💻Habilidades tecnologicas</h1>
+<h1 align="left">💻Technological skills</h1>
 <!--imagenes habilidades tecnologicas-->
 <p align="center">
 	<a href="https://skillicons.dev">
@@ -39,7 +39,7 @@
 <br>
 <!--imagenes de las redes sociales-->
 <!--txt habilidades tecnologicas-->
-<h1 align="left">💻Redes sociales</h1>
+<h1 align="left">💻Social media.</h1>
 <p align="center">
  <div align="center"  class="icons-social" style="margin-left: 10px;">
       <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/lauraramirezodar/">
