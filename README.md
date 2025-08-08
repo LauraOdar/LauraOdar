@@ -5,7 +5,7 @@
 
 <!--gif de la mano saludando-->
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> Hi, I am Laura
-<p align = "center"> Full Stack Web Developer / Ruby on Rails / Quality Assurance </p>
+<p align = "center"> Quality Assurance / Full Stack Web Developer / Ruby on Rails </p>
 <br>
 <br>
 <!--imagen de los commits-->
